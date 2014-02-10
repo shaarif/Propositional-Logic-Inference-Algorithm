@@ -1,7 +1,3 @@
-Mohammad Shaarif Zia
-6646435391
-mohammsz@usc.edu
-
 Language used-Java
 
 PROGRAM DESCRIPTION
